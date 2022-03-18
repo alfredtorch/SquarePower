@@ -18,7 +18,7 @@ __💪🏽 Capable Dual output__ : individual On/Off Switch</br>
 __🕶 Flexible__ : runs from a power bank</br>
 __🪛 DIY Friendly__ : Design files & tutorials available
 
-# 🔦 Hardware Explanation
+# 🔦 Explanation
 
 <p align="center">
 <img width="780" alt="image"  src="https://user-images.githubusercontent.com/38537119/158996916-177053ac-f0dc-41ad-8121-35457cc2c5fa.png">
@@ -45,9 +45,15 @@ Mini Switch | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f8
 Plug Screw Terminal | 2x | 0,30€ | [Aliexpres](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
 Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 3.5mm needs to be 2 pin             
 
+🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you!
 At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production. Happy to get any proposition.
 
+## Tutorials
+Build your own!
+Discover Ohm's Law with an USB Power Meter!
 
-      
+##
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/38537119/159009556-d873e1dc-3f15-4a0e-9607-7e317ec23593.png">
-
