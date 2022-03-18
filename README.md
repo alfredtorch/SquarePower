@@ -20,9 +20,8 @@ At the moment I have no possibility for a larger production and distribution. Of
 Designed in Eagle, in a messy way! Sorry! The related files are available under /Hardware.
 Name | Description 
 --- | ---
-ButtonPanel | Panel and Button
-ButtonStrip | Strip and Button
-IR | Strip and IR Receiver
+SQUAREPOWERV2 | USB-C Trigger straight, below PCB
+SQUAREPOWERVerticalUSBCV1 | USB-C right standing, top PCB
 
 ## 🛠 For DIY'er:
 All you need are steady hands for the soldering part. Small SMD (Surface Mount) components can be tricky to solder for beginners.
