@@ -1,12 +1,41 @@
+
+
+# SquarePower²
+
+<table style="padding:1px" >
+  <tr >
+    <td> 
+      <h3>Micro dual Power Supply Output</br></h3>
+      <b>🛒Easy to source</b></br>COTS Principle</br></br>
+      <b>♻️Reuse</b></br>give a second life to your cables</br></br>
+      <b>🧩Size</b></br> weights a few grams </br> fits in +- 30x30x30cm square</br></br>
+      <b>💪🏽Capable</b></br> Dual output </br> individual On/Off Switch</br></br>
+      <b>🕶Flexible</b></br> runs from a power bank</br></br>
+      <b>🪛DIY Friendly</b></br> Design files & tutorials available</br></br>
+      </td>
+   <td>  <img width="480" alt="image" src="https://user-images.githubusercontent.com/38537119/159009556-d873e1dc-3f15-4a0e-9607-7e317ec23593.png">
+</td>
+      </tr>
+</table>
+
+
+
+
+
+## 💊 Features 
+<p align="center">
+
+| <!-- -->    | <!-- -->    | <!-- -->    |
+|-------------|-------------|-------------|
+| __🛒Easy to source__ </br> COTS Principle         | __♻️Reuse__ </br> give a second life to your cables | __🧩Size__ </br> weights a few grams </br> fits in +- 30x30x30cm square
+| __💪🏽Capable__  </br> Dual output </br> individual On/Off Switch      | __🕶Flexible__ </br> runs from a power bank  | __🪛DIY Friendly__ </br> Design files & tutorials available
+</p>
+
 <p align="center">
   <img width="680" alt="image" src="https://user-images.githubusercontent.com/38537119/159009556-d873e1dc-3f15-4a0e-9607-7e317ec23593.png">
 </p>
 
-# SquarePower
-Micro dual Power Supply Output
-
---- | ---
-* Small footprint * Easy to source |  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/159009556-d873e1dc-3f15-4a0e-9607-7e317ec23593.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/159009556-d873e1dc-3f15-4a0e-9607-7e317ec23593.png">
 
 
 
