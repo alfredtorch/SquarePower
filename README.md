@@ -4,7 +4,7 @@
 
 <table style="padding:1px" >
   <tr >
-    <td width="600px"> 
+    <td width="40%"> 
       <h3>Micro dual Power Supply Output</br></h3>
       <b>🛒Easy to source</b></br>COTS Principle</br></br>
       <b>♻️Reuse</b></br>give a second life to your cables</br></br>
