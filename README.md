@@ -4,8 +4,12 @@
 
 # SquarePower
 Micro dual Power Supply Output
-* Small footprint
-* Easy to source
+
+--- | ---
+* Small footprint * Easy to source |  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/159009556-d873e1dc-3f15-4a0e-9607-7e317ec23593.png">
+
+
+
 
 # 🔦 Hardware
 
