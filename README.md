@@ -1,6 +1,4 @@
-# SquarePower²
-
-<img width="100%" alt="image" src="https://user-images.githubusercontent.com/38537119/159085636-7d5bce46-d28e-40c1-881c-7df80bf45ce9.jpeg">
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/38537119/159137387-00e4f052-0b33-4f50-91fa-72c485ebecb4.png">
 
 __handy, micro power supply__ to drive your projects in all kind of situations! SquarePower fits in any toolbox and in any invention
 
@@ -31,6 +29,18 @@ Name | Description
 SQUAREPOWERV2 | USB-C Trigger straight, below PCB
 SQUAREPOWERVerticalUSBCV1 | USB-C right standing, top PCB
 
+<p align ="center">
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159114481-db2182c7-e075-4503-84f0-5c204e9b5be7.png">
+</p>
+
+You can order a prepared 10x10cm Panel version directly from DirtyPCB from here. You won't not only get a bunch a squarepower pcbs but also a few handy pcb for converting 3pin signals, voltage divider and power distributor.
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/38537119/159137529-948afa06-20f5-4229-a569-324e1078a4d4.png">
+
+<p align="center">
+  <img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159137552-ce004d5d-eab1-4d9d-b845-39ba3b0ce0db.png">
+</p>
+
+
 ## 🛠 For DIY'er:
 All you need are steady hands for the soldering part. Small SMD (Surface Mount) components can be tricky to solder for beginners.
 
@@ -55,9 +65,6 @@ Part Name | Quantity | Price | Supply Link | Notes
 Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
 USB-C Trigger | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | best results with 20V Version **_OR_**       
 Jack Barrel | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | standard 2.1mm
-<p align ="center">
-<img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159114481-db2182c7-e075-4503-84f0-5c204e9b5be7.png">
-</p>
 
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you!
@@ -73,3 +80,5 @@ Soon updates for:
 - [ ] Add some space for soldering screw terminal right in place
 - [ ] Add some tutorials about making and using!
 - [ ] Design a nice laser-cutted and 3D printed enclosure
+
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/38537119/159085636-7d5bce46-d28e-40c1-881c-7df80bf45ce9.jpeg">
