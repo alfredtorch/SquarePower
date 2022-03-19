@@ -8,7 +8,6 @@ SquarePower fits in any toolbox and in any inventions
 * connects to an USB-C source, old laptop charger, ...
 * outputs a fixed (1,8 V 2,5 V 3,3 V 5V 9V 12V) or an adjustable voltage settings (0,8-17V)
 * up to a current 2,1A (max 3A, needs cooling)
-* based on DCDC converter IC [MP2315](https://www.openhacks.com/uploadsproductos/datasheet_77.pdf)
 
 # 💊 Features 
 __🛒 Easy to source__ : COTS Principle</br>
@@ -40,7 +39,7 @@ All you need are steady hands for the soldering part. Small SMD (Surface Mount) 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 PCB | 1x | 0,3€ | DirtyPCB[] or design files |Order your own or create the complete manufacturing process on your own 
-Mini DCDC | 2x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) | 
+Mini DCDC | 2x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) | should be based on IC [MP2315](https://www.openhacks.com/uploadsproductos/datasheet_77.pdf)
 Screw Terminal 4 PIN | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
 Mini Switch | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
 Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
