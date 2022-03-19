@@ -26,11 +26,11 @@ __🪛 DIY Friendly__ : design files & tutorials available</br>
 Designed in Eagle, in a messy way! Sorry! The related files are available under /Hardware.
 Name | Description 
 --- | ---
-SQUAREPOWERV2 | USB-C Trigger straight, below PCB
-SQUAREPOWERVerticalUSBCV1 | USB-C right standing, top PCB
+SQUAREPOWERV2 | VIN Vartions :</br>Jack, 3.5mm, horizontal, USB-C Trigger straight, below PCB
+SQUAREPOWERVerticalUSBCV1 | VIN Vartions :</br> PCB USB-C right standing or straight, large pads for direct cable soldering
 
 <p align ="center">
-<img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159114481-db2182c7-e075-4503-84f0-5c204e9b5be7.png">
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159140521-cc7cf26e-de17-417c-bf48-bd9c521bcd05.png">
 </p>
 
 You can order a prepared 10x10cm Panel version directly from DirtyPCB from here. You won't not only get a bunch a squarepower pcbs but also a few handy pcb for converting 3pin signals, voltage divider and power distributor.
