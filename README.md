@@ -2,17 +2,17 @@
 
 __handy, micro power supply__ to drive your projects in all kind of situations! SquarePower fits in any toolbox and in any invention
 
-* connects to an USB-C source, old laptop charger, ...
+* connects to an USB-C source, old laptop charger, ... (max 24V)
 * outputs a fixed (1,8 V 2,5 V 3,3 V 5V 9V 12V) or an adjustable voltage settings (0,8-17V)
 * up to a current 2,1A (max 3A - needs cooling)
 
 # 💊 Features 
-__🛒 Easy to source__ : COTS Principle for cost efficient building and repairing</br>
-__♻️ Reuse__ : give a second life to your cables</br>
-__🧩 Size__ : weights a few grams fits in +- 30x30x30cm square</br>
+__🛒 Easy to source__ : COTS-Principle for cost-efficient creating and repairing</br>
+__♻️ Reuse__ : give a second life to your cables and chargers</br>
+__🧩 Size__ : weights a few grams fits in +- 30x30x30cm space</br>
 __💪🏽 Capable dual output__ : individual On/Off Switch, thermal and shortcircuit protection</br>
-__🕶 Flexible__ : runs from a power bank, car battery, LiPo, ...</br>
-__🪛 DIY Friendly__ : Design files & tutorials available</br>
+__🕶 Flexible__ : runs from a power bank, car battery, wall adaptor</br>
+__🪛 DIY Friendly__ : design files & tutorials available</br>
 
 # 🔦 Explanation
 
@@ -80,5 +80,4 @@ Soon updates for:
 - [ ] Add some space for soldering screw terminal right in place
 - [ ] Add some tutorials about making and using!
 - [ ] Design a nice laser-cutted and 3D printed enclosure
-
-<img width="100%" alt="image" src="https://user-images.githubusercontent.com/38537119/159085636-7d5bce46-d28e-40c1-881c-7df80bf45ce9.jpeg">
+- [ ] Test if possible to arduino-drive the Enable Pin with a BSS138 Level Shifter
