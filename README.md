@@ -3,9 +3,9 @@
 __handy, micro power supply__ to drive your projects in all kind of situations! SquarePower fits in any toolbox and in any invention
 
 * connects to an USB-C source, old laptop charger, ... (max 24V)
-* outputs a fixed (1,8 V 2,5 V 3,3 V 5V 9V 12V), an adjustable voltage settings (0,8-17V) or redirects Vin to Vout
+* outputs a fixed (1,8 V 2,5 V 3,3 V 5V 9V 12V), an adjustable voltage settings (0,8-17V) or simply redirects Vin to Vout
 * up to a current 2,1A (max 3A - needs cooling)
-* all these specs are running on two separate DCDC converters. Yes, lucky life: you got dual output!
+* all these specs are running on two separate DCDC converters. Yes, you're right: damn, it's dual output capable!
 
 # 💊 Features 
 __🛒 Easy to source__ : COTS-Principle for cost-efficient creating and repairing</br>
