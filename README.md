@@ -55,12 +55,15 @@ PCB | 1x | 0,3€ | [DirtyPCB](https://dirtypcbs.com/store/designer/details/3748
 Mini DCDC | 2x | 1€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) | should be based on IC [MP2315](https://www.openhacks.com/uploadsproductos/datasheet_77.pdf)
 
 ### Optional components
+
+In case, you don't need any fancy control, feedback without the need 
+
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 Screw Terminal 4 PIN | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_9jdwp1) | 2.54mm needs to be 4 pin - KF128
-Mini Switch | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
-LED | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
-Resistors | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
+Mini Switch | 2x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
+LED | 2x | 0,10€ | [Aliexpress](https://s.click.aliexpress.com/e/_9vGqof) | 0805 Red, white, green... 
+Resistors | 3x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A0ikLN) | 0805 - I would go for 1kΩ
 
 ### Variation : Removable or soldered DCDC converter 
 Part Name | Quantity | Price | Supply Link | Notes 
