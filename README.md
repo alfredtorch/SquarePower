@@ -39,7 +39,7 @@ You can order a prepared 10x10cm Panel version directly from DirtyPCB from here.
 
 
 <p align="center">
-  <img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159137552-ce004d5d-eab1-4d9d-b845-39ba3b0ce0db.png">
+  <img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159152566-26dd1b0b-992d-407d-b471-d7321f70e51b.png">
 </p>
 
 
@@ -51,8 +51,20 @@ Part Name | Quantity | Price | Supply Link | Notes
 --- | --- | --- | --- | ---
 PCB | 1x | 0,3€ | [DirtyPCB](https://dirtypcbs.com/store/designer/details/3748/6558/squarepower10x10panelv1-zip) or design files |Order your own or create the complete manufacturing process on your own 
 Mini DCDC | 2x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) | should be based on IC [MP2315](https://www.openhacks.com/uploadsproductos/datasheet_77.pdf)
+
+### Optional components
+Part Name | Quantity | Price | Supply Link | Notes 
+--- | --- | --- | --- | ---
 Screw Terminal 4 PIN | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
 Mini Switch | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
+LED | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
+Resistors | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
+
+### Variation : Removable Solder Supply 
+Part Name | Quantity | Price | Supply Link | Notes 
+--- | --- | --- | --- | ---
+① Screw Terminal 4 PIN | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
+② Pin header | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
 
 ### Variation : Vout Terminals
 Part Name | Quantity | Price | Supply Link | Notes 
@@ -61,7 +73,7 @@ Part Name | Quantity | Price | Supply Link | Notes
 ② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 3.5mm needs to be 2 pin             
 
 
-### Variation Vin Terminals
+### Variation : Vin Terminals
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 ① Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
