@@ -51,7 +51,7 @@ All you need are steady hands for the soldering part. Small SMD (Surface Mount) 
 ## 💰BOM
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
-PCB | 1x | 0,3€ | [DirtyPCB](https://dirtypcbs.com/store/designer/details/3748/6558/squarepower10x10panelv1-zip) or design files |Order your own or create the complete manufacturing process on your own 
+PCB | 1x | 0,3€ | [DirtyPCB](https://dirtypcbs.com/store/designer/details/3748/6558/squarepower10x10panelv1-zip) | Order your own or create the complete manufacturing process on your own 
 Mini DCDC | 2x | 1€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) | should be based on IC [MP2315](https://www.openhacks.com/uploadsproductos/datasheet_77.pdf)
 
 ### Optional components
@@ -76,18 +76,18 @@ Part Name | Quantity | Price | Supply Link | Notes
 --- | --- | --- | --- | ---
 ① Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - KF2EDG </br>can be straight or right angle **_OR_**            
 ② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 3.5mm needs to be 2 pin - KF350 **_OR_**       
-② Screw Terminal 2.54mm | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 2.54mm needs to be 2 pin - KF128 **_OR_**       
+② Screw Terminal 2.54mm | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A7x3ar) | 2.54mm needs to be 2 pin - KF128 **_OR_**       
 
 ### Variation : Vin Terminals
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
-① Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
-② USB-C Trigger | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | best results with 20V Version **_OR_**       
-③ Jack Barrel | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | standard 2.1mm
-
+① Plug Screw Terminal| 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - KF2EDG can be straight or right angle **_OR_**
+② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - KF350</br>can be straight or right angle **_OR_**   
+③ USB-C Trigger | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9JGZEJ) | best results with 20V Version **_OR_**       
+⓸ Power Jack | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9gR5cj) |  5.5x2.1mm DC-005
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you!
-At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production. 
+At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.  </br> Soon I'll sell a small batch on Tindie
 
 ## 👨🏼‍🏫Tutorials
 Soon updates for:
