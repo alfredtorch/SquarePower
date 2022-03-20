@@ -60,7 +60,7 @@ Mini Switch | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f8
 LED | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
 Resistors | 2x | 0,06€ | [Aliexpress](https://s.click.aliexpress.com/e/_A2f847) | Carefull, don't stress too much that component
 
-### Variation : Removable Solder Supply 
+### Variation : Removable or soldered DCDC converter 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 ① Screw Terminal 4 PIN | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
@@ -71,7 +71,6 @@ Part Name | Quantity | Price | Supply Link | Notes
 --- | --- | --- | --- | ---
 ① Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
 ② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 3.5mm needs to be 2 pin             
-
 
 ### Variation : Vin Terminals
 Part Name | Quantity | Price | Supply Link | Notes 
