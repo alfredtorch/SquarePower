@@ -94,3 +94,4 @@ Soon updates for:
 - [ ] Add some tutorials about making and using!
 - [ ] Design a nice laser-cutted and 3D printed enclosure
 - [ ] Test if possible to arduino-drive the Enable Pin with a BSS138 Level Shifter
+- [ ] Datasheet : Add 100k Resistor between Vin<--Switch-->Enable Pin
