@@ -56,7 +56,7 @@ Mini DCDC | 2x | 1€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) |
 
 ### Optional components
 
-In case, you don't need any fancy control, feedback without the need 
+In case, you don't need any fancy control or feedback but only a way to hack together a DCDC converter, you don't need any of these parts below.
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
@@ -68,14 +68,15 @@ Resistors | 3x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A0ikLN)
 ### Variation : Removable or soldered DCDC converter 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
-① Screw Terminal 4 PIN | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
-② Pin header | 3x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_AsaT637) | 2.54mm needs to be 4 pin
+① Screw Terminal 4 PIN | 2x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_A7x3ar) | 2.54mm needs to be 4 pin - KF128
+② Pin header male right angle | 2x | 0,40€ | [Aliexpress](https://s.click.aliexpress.com/e/_9yioMn) | 2.54mm needs to be 4 pin
 
 ### Variation : Vout Terminals
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
-① Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - can be straight or right angle **_OR_**            
-② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 3.5mm needs to be 2 pin - KF350           
+① Plug Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - KF2EDG </br>can be straight or right angle **_OR_**            
+② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 3.5mm needs to be 2 pin - KF350 **_OR_**       
+② Screw Terminal 2.54mm | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9GXJgJ) | 2.54mm needs to be 2 pin - KF128 **_OR_**       
 
 ### Variation : Vin Terminals
 Part Name | Quantity | Price | Supply Link | Notes 
