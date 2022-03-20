@@ -15,6 +15,8 @@ __💪🏽 Capable dual output__ : individual On/Off Switch, thermal and shortci
 __🕶 Flexible__ : runs from a power bank, car battery, wall adaptor</br>
 __🪛 DIY Friendly__ : design files & tutorials available</br>
 
+More information about the DCDC Converter can be found [here](https://protosupplies.com/product/mp2315-mini-adjustable-dc-dc-step-down-module/)
+
 # 🔦 Explanation
 
 <p align="center">
