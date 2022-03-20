@@ -39,11 +39,9 @@ SQUAREPOWERVerticalUSBCV1 | VIN Vartions :</br> PCB USB-C right standing or stra
 You can order a prepared 10x10cm Panel version directly from DirtyPCB from here. You won't not only get a bunch a squarepower pcbs but also a few handy pcb for converting 3pin signals, voltage divider and power distributor.
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/38537119/159137529-948afa06-20f5-4229-a569-324e1078a4d4.png">
 
-
 <p align="center">
   <img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159152566-26dd1b0b-992d-407d-b471-d7321f70e51b.png">
 </p>
-
 
 ## 🛠 For DIY'er:
 All you need are steady hands for the soldering part. Small SMD (Surface Mount) components can be tricky to solder for beginners.
@@ -83,11 +81,11 @@ Part Name | Quantity | Price | Supply Link | Notes
 --- | --- | --- | --- | ---
 ① Plug Screw Terminal| 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - KF2EDG can be straight or right angle **_OR_**
 ② Screw Terminal | 2x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_A9i5w7) | 3.5mm needs to be 2 pin - KF350</br>can be straight or right angle **_OR_**   
-③ USB-C Trigger | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9JGZEJ) | best results with 20V Version **_OR_**       
+③ USB-C Trigger | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9x3zGj) | best results with 20V Version **_OR_**       
 ⓸ Power Jack | 1x | 1,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9gR5cj) |  5.5x2.1mm DC-005
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you!
-At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.  </br> Soon I'll sell a small batch on Tindie
+At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.  </br> Soon I'll sell a small batch on Tindie!
 
 ## 👨🏼‍🏫Tutorials
 Soon updates for:
