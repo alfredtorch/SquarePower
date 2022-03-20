@@ -37,6 +37,7 @@ SQUAREPOWERVerticalUSBCV1 | VIN Vartions :</br> PCB USB-C right standing or stra
 You can order a prepared 10x10cm Panel version directly from DirtyPCB from here. You won't not only get a bunch a squarepower pcbs but also a few handy pcb for converting 3pin signals, voltage divider and power distributor.
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/38537119/159137529-948afa06-20f5-4229-a569-324e1078a4d4.png">
 
+
 <p align="center">
   <img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159137552-ce004d5d-eab1-4d9d-b845-39ba3b0ce0db.png">
 </p>
