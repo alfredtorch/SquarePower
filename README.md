@@ -37,7 +37,7 @@ SQUAREPOWERVerticalUSBCV1 | VIN Vartions :</br> PCB USB-C right standing or stra
 </p>
 
 You can order a prepared 10x10cm Panel version directly from DirtyPCB from here. You get a bunch a squarepower pcbs but also a few handy pcb for re-routing 3pin signals, voltage divider and power distributor.
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/38537119/159137529-948afa06-20f5-4229-a569-324e1078a4d4.png">
+<a rel="dirty" href="https://dirtypcbs.com/store/designer/details/3748/6558/squarepower10x10panelv1-zip"><img alt="dirty pcb fab house" height="20px" style="border-width:0" src="https://user-images.githubusercontent.com/38537119/159934080-15268043-c9dd-4a3f-8c8b-dc51712a77ec.png" /></a>
 
 <p align="center">
   <img width="780" alt="image" src="https://user-images.githubusercontent.com/38537119/159152566-26dd1b0b-992d-407d-b471-d7321f70e51b.png">
@@ -48,7 +48,7 @@ All you need are steady hands for the soldering part. Small SMD (Surface Mount) 
 
 ## 💰BOM
 
-Bill Of Material: Prices are approximatif. Depending on your needs and suppliers, you can cut down the cost so that for one module you will spent less then 3€.
+Bill Of Material: Prices are estimated. Depending on your needs and suppliers, you can cut down the cost so that for one module you will spent less then 3€.
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
