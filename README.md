@@ -100,8 +100,7 @@ Soon updates for:
 - [ ] Add some tutorials about making and using!
 - [ ] Design a nice laser-cutted and 3D printed enclosure
 - [ ] Test if possible to arduino-drive the Enable Pin with a BSS138 Level Shifter
-- [ ] Datasheet : Add 100k Resistor between Vin<--Switch-->Enable Pin
+- [x] Datasheet : Add 100k Resistor between Vin<--Switch-->Enable Pin
 
 ## Licence
-This work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
+This work is licensed under Creative Commons License </br> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
