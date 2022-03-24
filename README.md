@@ -107,3 +107,7 @@ Soon updates for:
 
 ## Licence
 This work is licensed under Creative Commons License </br> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l154chfjypubgrqsa7kl" alt="trackgit-views" />
+</a>
