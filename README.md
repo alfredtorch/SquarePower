@@ -54,6 +54,9 @@ Mini DCDC | 2x | 1€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hSzDv) |
 
 ### Optional components
 In case, you don't need any fancy control or feedback but only a way to hack together a DCDC converter, you don't need any of these parts below.
+<p align="center">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/38537119/159930103-bbdeab40-8d34-4651-a372-77c9323f4e25.png">
+ </p>
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
