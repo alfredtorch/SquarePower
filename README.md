@@ -90,8 +90,8 @@ Part Name | Quantity | Price | Supply Link | Notes
 ⓸ Power Jack | 1x | 0,30€ | [Aliexpress](https://s.click.aliexpress.com/e/_9gR5cj) | 5.5x2.1mm DC-005
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you!
-At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.  </br> Soon I'll sell a small batch on Tindie!
-
+At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.</br>  
+<img width="80" alt="image" src="https://user-images.githubusercontent.com/38537119/180317167-343f2089-0c97-4c9d-b79c-9bc9e5cd78c9.png"> Available on [Tindie](https://www.tindie.com/products/alfredtorch/square-power/)</br>
 ## 👨🏼‍🏫Tutorials
 Soon updates for:
 * How to build your own & first steps
